@@ -17,6 +17,6 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-* Node.js
-* Express
-* SQLite
+* 
+* 
+* 
